@@ -1,0 +1,14 @@
+/Users/nataliemastracci/myCode/dotNet/first-api/bin/Debug/netcoreapp2.1/first-api.deps.json
+/Users/nataliemastracci/myCode/dotNet/first-api/bin/Debug/netcoreapp2.1/first-api.runtimeconfig.json
+/Users/nataliemastracci/myCode/dotNet/first-api/bin/Debug/netcoreapp2.1/first-api.runtimeconfig.dev.json
+/Users/nataliemastracci/myCode/dotNet/first-api/bin/Debug/netcoreapp2.1/first-api.dll
+/Users/nataliemastracci/myCode/dotNet/first-api/bin/Debug/netcoreapp2.1/first-api.pdb
+/Users/nataliemastracci/myCode/dotNet/first-api/obj/Debug/netcoreapp2.1/first-api.csprojAssemblyReference.cache
+/Users/nataliemastracci/myCode/dotNet/first-api/obj/Debug/netcoreapp2.1/first-api.csproj.CoreCompileInputs.cache
+/Users/nataliemastracci/myCode/dotNet/first-api/obj/Debug/netcoreapp2.1/first-api.RazorAssemblyInfo.cache
+/Users/nataliemastracci/myCode/dotNet/first-api/obj/Debug/netcoreapp2.1/first-api.RazorAssemblyInfo.cs
+/Users/nataliemastracci/myCode/dotNet/first-api/obj/Debug/netcoreapp2.1/first-api.AssemblyInfoInputs.cache
+/Users/nataliemastracci/myCode/dotNet/first-api/obj/Debug/netcoreapp2.1/first-api.AssemblyInfo.cs
+/Users/nataliemastracci/myCode/dotNet/first-api/obj/Debug/netcoreapp2.1/first-api.RazorTargetAssemblyInfo.cache
+/Users/nataliemastracci/myCode/dotNet/first-api/obj/Debug/netcoreapp2.1/first-api.dll
+/Users/nataliemastracci/myCode/dotNet/first-api/obj/Debug/netcoreapp2.1/first-api.pdb
